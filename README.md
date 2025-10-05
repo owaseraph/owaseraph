@@ -49,14 +49,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/owaseraph/owaseraph/output/snake.svg" alt="Snake animation" />
+<div align="left">
+</div>
 
 ###
 
-<div align="left">
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/owaseraph/owaseraph/output/snake.svg" alt="Snake animation" />
 
 ###
 
