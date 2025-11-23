@@ -9,6 +9,11 @@
 
   <br/>
 
+  <br/>
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="400" alt="coding cat" />
+</div>
+
   <h3>🛠️ Arsenal</h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,html,css,ts,linux,cmake,git,vscode,matlab&theme=dark" />
   <br/><br/>
