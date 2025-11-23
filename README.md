@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;Hello;TUCN+-+IET;Electronics+%26+Telecom;C%2FC%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;TUCN+-+IET;Electronics+%26+Telecom;C%2FC%2B%2B+Developer" alt="Typing SVG" />
 
   <br/>
 
@@ -20,10 +20,10 @@
 
   <br/><br/>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/rares-stefan-tcaciuc-545061336/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:tcaciuc.rares.stefan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
