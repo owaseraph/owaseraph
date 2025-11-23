@@ -11,7 +11,7 @@
 
   <br/>
 <div align="center">
-  <img src="https://tenor.com/fnfkmcVpV2K.gif" width="400" alt="coding cat" />
+  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" width="400" alt="coding cat" />
 </div>
 
   <h3>🛠️ Arsenal</h3>
