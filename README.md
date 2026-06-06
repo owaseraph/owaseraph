@@ -20,8 +20,7 @@
 
 - 🎓 Student at **Technical University of Cluj-Napoca** — Faculty of Electronics, Telecommunications & IT
 - ⚙️ Passionate about **embedded systems**, **low-level programming**, and hardware-software interaction
-- 💻 Primarily working in **C / C++**, exploring systems from bare-metal to OS-level
-- 📡 Interested in signal processing, microcontrollers, and real-time systems
+- 💻 Primarily working in **C / C++**
 
 ---
 
