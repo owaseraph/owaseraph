@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Tagline -->
-> *Building close to the metal — embedded systems, low-level code, and everything in between.*
+> *Oh how I wish it was easier.*
 
 <br/>
 
