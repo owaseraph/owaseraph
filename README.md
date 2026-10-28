@@ -22,8 +22,8 @@ Primarily working with C and C++.
 ### GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=owaseraph&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owaseraph&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most used languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=owaseraph&show_icons=true&theme=transparent&hide_border=true&cache_seconds=86400" alt="GitHub statistics" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=owaseraph&layout=compact&theme=transparent&hide_border=true&langs_count=6&cache_seconds=86400" alt="Most used languages" />
 </div>
 
 ---
